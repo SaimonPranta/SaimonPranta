@@ -3,7 +3,6 @@
 ##### Hi, i am Saimon Pranta ( Full-Stack Developer )
 
 
-<h1 align="center">Hi 👋, I'm Saimon Pranta</h1>
 
 
 <!-- this is Descriptions section -->
