@@ -1,7 +1,7 @@
 <h5 style="color:yellow">
 Hi, i am <span style="color:blue">Saimon Pranta</span> <span style="color:##56198bec">( Full-Stack Developer )</span>
 </h5>
-<div>
+<div style="color:yellow">
   I’m a Full-Stack Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 50s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with JavaScript, ReactJS, NextJS, NodeJS/ExpressJS, Laravel but some technologies I enjoy working with PHP.
 </div>
 
