@@ -4,8 +4,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Saimon Pranta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 
 
 <!-- this is Descriptions section -->
