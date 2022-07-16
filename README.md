@@ -21,13 +21,13 @@ I’m a Full-Stack Web developer who is passionate about making error-free websi
 
 
 <!-- this is Statistics section -->
-
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaimonPranta)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaimonPranta&show_icons=true&count_private=true)  
 
 
-
+ -->
 
 
 <!-- this is Social section -->
