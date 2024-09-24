@@ -2,9 +2,15 @@
 ##### Hi, I am Symyl Kabir (Full-Stack Developer)
 
 <!-- Description Section -->
-I’m a Full-Stack Web Developer passionate about crafting high-quality, error-free websites with 100% client satisfaction. I specialize in both frontend and backend development using cutting-edge technologies. My goal is to deliver strategic, goal-oriented solutions that solve real-world problems.
-
-Over the past few years, I’ve led projects across various domains, including e-commerce, financial platforms, and news portals, consistently maintaining high standards of performance and communication. I excel in optimizing server configurations, deployment pipelines, and ensuring scalability in production environments. My expertise includes JavaScript, React.js, Next.js, Express.js, and MongoDB, though I am equally proficient in PHP and other technologies.
+Experienced Full-Stack Web Developer
+with a passion for building scalable and
+efficient applications. Proven expertise
+in both frontend and backend
+development using modern
+technologies. Looking for a long-term,
+challenging role where I can apply my
+skills in a high-tech environment and
+continue to grow professionally.
 
 <p align="left"></p>
 
