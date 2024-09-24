@@ -2,15 +2,11 @@
 ##### Hi, I am Symyl Kabir (Full-Stack Developer)
 
 <!-- Description Section -->
-Experienced Full-Stack Web Developer
-with a passion for building scalable and
-efficient applications. Proven expertise
-in both frontend and backend
-development using modern
-technologies. Looking for a long-term,
-challenging role where I can apply my
-skills in a high-tech environment and
-continue to grow professionally.
+I am a highly skilled Full-Stack Developer with expertise in building scalable and high-performance web applications using modern frameworks like React.js, Next.js, Angular.js, Express.js, and Nest.js. I have extensive programming knowledge in Python, Flask, and OpenCV, which allows me to tackle a variety of technical challenges.
+
+My experience extends beyond development — I build and configure full production servers, handling everything from Nginx setup to SSL certification using Certbot. I also specialize in automating server tasks using shell scripts, ensuring seamless production workflows. My DevOps skills include proficiency with Jenkins, Ansible, Docker, and Kubernetes, which I use to streamline CI/CD pipelines and manage containerized applications.
+
+Whether it's deploying a web app or configuring a server, I am dedicated to providing top-notch solutions with a focus on performance, security, and automation.
 
 <p align="left"></p>
 
